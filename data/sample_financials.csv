@@ -1,0 +1,7 @@
+month,department,category,actual,budget
+2026-07-01,Sales,revenue,92000,100000
+2026-07-01,Engineering,expense,85000,70000
+2026-07-01,Operations,expense,35000,40000
+2026-08-01,Sales,revenue,115000,110000
+2026-08-01,Engineering,expense,78000,75000
+2026-08-01,Operations,expense,45000,40000
